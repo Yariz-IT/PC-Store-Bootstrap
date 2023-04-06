@@ -1,4 +1,4 @@
 # PC-Store
  <div align="center">
-     <img src="https://github.com/Yariz-IT/iPhoneAdaptive/blob/main/iphone.gif"/>
+     <img src="https://github.com/Yariz-IT/PC-Store-BootstrapAdaptive/blob/main/pc%20store.gif"/>
   </div>
