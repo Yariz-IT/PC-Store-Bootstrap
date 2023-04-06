@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css?family=Michroma&display=swap');
+
+
+.nav-link, p {
+    font-family: Michroma, serif;
+    color: azure;
+}
+
+
+body {
+    background: black;
+    
+}
+
+header {
+    border: 1pt silver solid;
+    
+
+}
+
+.navbar-toggler {
+    background-color: azure;
+}
+
+
+.navbar-nav .nav-link.active {
+color: azure;
+}
+
+.navbar-brand img {
+    width: 65px;
+    height: 50px;
+}
+
+.site_bar {
+    color: azure;
+}
+
+.text_bar {
+    color: azure;
+}
+
+.slide__text,
+.footer__text{
+    color: azure;
+    margin: auto auto;
+    font-family: Michroma, serif;
+
+}
+
+.media {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+@media (max-width: 800px) {
+    .carousel-indicators {
+        display: none;
+    }
+}
+
+
+.carousel-indicators {
+    display: none;
+}
+
+footer {
+    border: 1pt silver solid;
+
+}
+
+.carousel-inner {
+    padding-top: 155px;
+
+}
+
+.call-animation {
+    animation: Call 2s ease 0s infinite normal forwards;
+}
+@keyframes Call {
+	0% {
+		transform: translate(0);
+	}
+
+	20% {
+		transform: translate(-2px, 2px);
+	}
+
+	40% {
+		transform: translate(-2px, -2px);
+	}
+
+	60% {
+		transform: translate(2px, 2px);
+	}
+
+	80% {
+		transform: translate(2px, -2px);
+	}
+
+	100% {
+		transform: translate(0);
+	}
+}
+

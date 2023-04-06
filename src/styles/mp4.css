@@ -1,0 +1,18 @@
+
+.video {
+    height: 70vh;
+    width: 100%;
+    position: relative;
+}
+
+
+.video video {
+    height: 70vh;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+
+}
+
